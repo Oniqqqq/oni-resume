@@ -1,4 +1,4 @@
-## Welcome Oniqqq's resume page
+## Welcome to Oniqqq's resume page
 
 ### Projects
 
