@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome Oniqqq's resume page
 
-You can use the [editor on GitHub](https://github.com/Oniqqqq/oni-resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Web project: https://mybgdom.com/
 
-### Markdown
+Appstore app: https://apps.apple.com/ru/app/time-capsule-live/id1529871566
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Coachy mobile app concept https://www.youtube.com/watch?v=2uXk4lxlSOk&t=1s
 
-```markdown
-Syntax highlighted code block
+Instagram AR mask dev for popular Russian media persons(VSRAP, 17 hiphop ru)
 
-# Header 1
-## Header 2
-### Header 3
+### Education
 
-- Bulleted
-- List
+2007-2016 Gymnasium 39 Ufa
 
-1. Numbered
-2. List
+2016-2020 English Language School Burgas, Bulgaria
 
-**Bold** and _Italic_ and `Code` text
+2020-now ITMO University
 
-[Link](url) and ![Image](src)
-```
+## Courses
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Learning Python for Data Analysis and Visualization Udemy course
 
-### Jekyll Themes
+Python + Django course Udemy
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Oniqqqq/oni-resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Spring & Hibernate Java course 
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+VK: https://vk.com/oniqqq
+Inst: https://www.instagram.com/oniqqq_
+Tg: @oniqqq
+
