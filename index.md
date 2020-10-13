@@ -5,9 +5,9 @@
 Web project: https://mybgdom.com/
 
 Backend for Appstore apps: 
-                       TimeCapsule https://apps.apple.com/ru/app/time-capsule-live/id1529871566
-                       Schedule Application for university https://apps.apple.com/ru/app/%D0%BF%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B8-%D0%B2-%D1%83%D0%B3%D0%B0%D1%82%D1%83/id1511905144
-                        Application for university https://apps.apple.com/ru/app/%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%83%D0%B3%D0%B0%D1%82%D1%83/id1498430845
+TimeCapsule https://apps.apple.com/ru/app/time-capsule-live/id1529871566
+Schedule Application for university https://apps.apple.com/ru/app/%D0%BF%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B8-%D0%B2-%D1%83%D0%B3%D0%B0%D1%82%D1%83/id1511905144
+Application for university https://apps.apple.com/ru/app/%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D1%83%D0%B3%D0%B0%D1%82%D1%83/id1498430845
 
 Coachy mobile app concept https://www.youtube.com/watch?v=2uXk4lxlSOk&t=1s
 
@@ -36,7 +36,6 @@ English C1
 German B2
 
 ## Programming Languages
-
 Python
 C++
 
