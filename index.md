@@ -16,6 +16,8 @@ Coachy mobile app concept https://www.youtube.com/watch?v=2uXk4lxlSOk&t=1s
 
 Instagram AR mask dev for popular Russian media personalities(VSRAP, 17 hiphop ru)
 
+Full Time Customer support at Supportyourapp 
+
 ### Education
 
 2007-2016 Gymnasium 39 Ufa
