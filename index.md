@@ -48,6 +48,6 @@ C++
 ### Contact
 
 VK: https://vk.com/oniqqq
-Inst: https://www.instagram.com/oniqqq_
+Inst: https://www.instagram.com/onisputnik
 Tg: @oniqqq
 
